@@ -3,4 +3,5 @@ Git is great!
 Git is nice software!
 I love coding, but i also love game!
 
-Git tracks changs of tile!
+//Git tracks changs of tile!
+Git is a software, which is used quickly!
